@@ -61,11 +61,14 @@ src/main/java/com/scheduler/
 | E | Validation — duplicate ID | 4 |
 
 ## Team
-| # | Name | ID | Area |
-|---|------|----|------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
+| # | Name                                |     ID  |  
+| 1 |YOUSEF OSAMA ZAHRAN                  |20241148 |
+| 2 |YOUSEF SHERIF ABDELMAWGOD            | 20241163 |
+| 3 | WALEED ASHRAF GOMAA|                | 20241107 |
+| 4 | MOHAMED TAMER MOHAMED ADEL          | 20240809 |
+| 5 | MOHAMMED HUSEN MOHAMED              | 20220392 |
+|6|  ABDRAHMAN ASHRAF ABDELRAZIK           | 20240525 |
+
 
 ## Analysis Questions
 1. Which algorithm gave lower average waiting time?
@@ -74,3 +77,4 @@ src/main/java/com/scheduler/
 4. Did SJF complete short jobs more efficiently?
 5. How did the chosen quantum affect Round Robin behavior?
 6. Which algorithm is recommended for the tested workload, and why?
+ 
